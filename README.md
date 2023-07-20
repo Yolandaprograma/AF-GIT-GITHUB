@@ -1,5 +1,6 @@
 # AF-GIT-GITHUB
 
+
 ## Introducción
 
 - Control de versiones 
@@ -43,3 +44,6 @@
 - Deshacer cambios
 - Ramas
 - Repositorios remotos
+
+  
+### Realizado por Jorge López
